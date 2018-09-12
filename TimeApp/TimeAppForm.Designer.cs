@@ -69,9 +69,9 @@
             // 
             // dayTimeButton
             // 
-            this.dayTimeButton.Location = new System.Drawing.Point(258, 265);
+            this.dayTimeButton.Location = new System.Drawing.Point(226, 265);
             this.dayTimeButton.Name = "dayTimeButton";
-            this.dayTimeButton.Size = new System.Drawing.Size(244, 23);
+            this.dayTimeButton.Size = new System.Drawing.Size(276, 23);
             this.dayTimeButton.TabIndex = 3;
             this.dayTimeButton.Text = "Показать время суток для введенного времени";
             this.dayTimeButton.UseVisualStyleBackColor = true;
